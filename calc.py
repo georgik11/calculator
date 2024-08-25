@@ -11,3 +11,4 @@ print(f"SUB: {x - y}")
 print(f"MUL: {x * y}")
 print(f"Pow: {x ** y}")
 
+print("bye bye")
